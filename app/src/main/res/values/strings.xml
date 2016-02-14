@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Digit Creative Studio</string>
+    <string name="description">Digit Creative Studio (DCS) is a startup from Indonesia that focus on developing mobile and web application.</string>
+    <string name="address">Jalan Adipati Unus No.5, Semarang</string>
+    <string name="phone_number">+628587878141675</string>
+    <string name="website">digitcreativestudio.com</string>
 </resources>

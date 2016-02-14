@@ -31,7 +31,7 @@
         android:background="#1E88E5"
         android:textColor="@android:color/white"
         android:fontFamily="sans-serif-light"
-        android:text="Digit Creative Studio" />
+        android:text="@string/app_name" />
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -39,7 +39,7 @@
         android:padding="10dp"
         android:gravity="center"
         android:fontFamily="sans-serif-light"
-        android:text="Digit Creative Studio (DCS) is a startup from Indonesia that focus on developing mobile and web application." />
+        android:text="@string/description" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -53,19 +53,19 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:fontFamily="sans-serif-light"
-            android:text="+628587878141675" />
+            android:text="@string/phone_number" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:fontFamily="sans-serif-light"
-            android:text="Jalan Adipati Unus No.5, Semarang" />
+            android:text="@string/address" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:fontFamily="sans-serif-light"
-            android:text="digitcreativestudio.com"/>
+            android:text="@string/website"/>
 
     </LinearLayout>
 
